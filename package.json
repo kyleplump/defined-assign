@@ -1,0 +1,21 @@
+{
+  "name": "defined-assign",
+  "version": "1.0.0",
+  "description": "Assign only defined properties from a source object to a target object.",
+  "main": "index.js",
+  "author": "Kyle Plump",
+  "license": "MIT",
+  "homepage": "https://github.com/kyleplump/defined-assign",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kyleplump/defined-assign.git"
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "assign",
+    "properties",
+    "property",
+    "js"
+  ]
+}
